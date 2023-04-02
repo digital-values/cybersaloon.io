@@ -1,5 +1,5 @@
 title = "Awesome Hugo blog"
-baseURL = 'cybersaloon-io.pages.dev'
+baseURL = ''
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
