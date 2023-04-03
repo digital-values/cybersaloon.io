@@ -1,24 +1,16 @@
 ---
-title: About
-description: 'Hugo, the world''s fastest framework for building websites'
-date: '2019-02-28'
+title: whoami
+description: 'The Dawn of a New Era'
+date: '2023-04-01'
 author: Hugo Authors
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I began my journey into the cybersecurity sector over 15 years ago when I was recording songs you could only find on MySpace pages using Audacity to record and save .mp3 files. I would then upload several of the .mp3 files on LimeWire to burn on a CD in a process that would feel like lightyears compared to the unrestricted technology we have now. But times were indeed much more simple back then.
 
-Hugo makes use of a variety of open source projects including:
+After several life endeavors, I wound up joining the military and gaining a foothold in what I was interested in. National Security. During this period of time I was appalled at the curriculum in my chosen field. Our military instructors were still teaching conventional warfare and preparing future soldiers to assist decision makers by providing most likely & most dangerous courses of action for tank-on-tank battles. My young brain was amazed that these soviet-era tactics were still being taught in a modern world...
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+And then on February 2022, Ukraine was invaded by Russia. My instructors would of loved to order me to perform corrective training until I could hear the artillery shells in the Ukrainian sky myself. Jokes aside, tank on tank warfare was on, but the real difference in this ware is how the world is digesting a new approach to Multi-Domain Operations. We are currently witnessing the role of cyber warfare in a real conventional war. This is truly the dawn of a new era.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Covering Ukraine and European events enabled me to understand the cyber kill-chain in action. Aside from the experience I have gained as a service member, I have also done stints in counter-narcotics, defense civil service operations, stability operations, anti-human trafficking, counter-intelligence, and offensive cyber operations initiatives. All views expressed are solely my own and independent of any federal, state, local government entity as well as private and commercial entities I may be employed or contracted by. Thank you for reading about me.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* https://github.com/digital-values
