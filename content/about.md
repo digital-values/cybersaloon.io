@@ -5,7 +5,7 @@ date: '2023-04-01'
 author: Hugo Authors
 ---
 
-I began my journey into the cybersecurity sector over 15 years ago when I was recording songs you could only find on MySpace pages using Audacity to record and save .mp3 files. I would then upload several of the .mp3 files on LimeWire to burn on a CD in a process that would feel like lightyears compared to the unrestricted technology we have now. But times were indeed much more simple back then.
+I began my journey into the cybersecurity sector over 15 years ago when I was ripping songs you could only find on MySpace pages using Audacity to record and save .mp3 files. I would then upload several of the .mp3 files on LimeWire to burn on a CD in a process that would feel like lightyears compared to the unrestricted technology we have now. But times were indeed much more simple back then.
 
 After several life endeavors, I wound up joining the military and gaining a foothold in what I was interested in. National Security. During this period of time I was appalled at the curriculum in my chosen field. Our military instructors were still teaching conventional warfare and preparing future soldiers to assist decision makers by providing most likely & most dangerous courses of action for tank-on-tank battles. My young brain was amazed that these soviet-era tactics were still being taught in a modern world...
 
