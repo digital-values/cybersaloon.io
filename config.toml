@@ -51,8 +51,8 @@ enableEmoji = true
 [params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
+  intro = "Welcome to the Cyber Saloon"
+  name = "Digital Values"
   description = "Documenting real world events and analyzing technical details in the cyber realm."
 
 [[params.socialIcons]]
