@@ -1,7 +1,7 @@
 ---
 title: "Countering Narcotics"
 date: 2023-04-05T12:54:28-04:00
-draft: false
+draft: true
 ---
 
 During my tenure with the Drug Enforcement Administration, I was heavily vested in any criminal activity related to China. Having read and understood their 50-year plan for world dominance, I felt that I could make a difference at the tactical level that would, at the very least, have an impact on the surrounding neighborhoods.
