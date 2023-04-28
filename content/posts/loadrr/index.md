@@ -4,9 +4,9 @@ date: 2023-04-14T17:36:13-04:00
 draft: false
 ---
 
-One of the biggest frustrations I had in my past life with DEA was the fact that you were just expected to retrieve vast amounts of data and synthesize it in a timely manner with the commercial tools available. There were many inefficiencies that I vowed to change once I had the means and the freedom of movement to. I deployed and had some free time to develop a program to solve one unique problem I faced at DEA. It all originated with cell phone pings, the good guys would build enough probable cause to get a court order signed to server to a telephone provider for target cell phone pings both current and historical. 
+One of the biggest frustrations I had in my past life with a certain counter-drug agency was the fact that you were just expected to retrieve vast amounts of data and synthesize it in a timely manner with the commercial tools available. There were many inefficiencies that I vowed to change once I had the means and the freedom of movement to. I deployed and had some free time to develop a program to solve one unique problem I faced at DEA. It all originated with cell phone pings, the good guys would build enough probable cause to get a court order signed to server to a telephone provider for target cell phone pings both current and historical. 
 
-We would then receive a generated report and would almost always include latitudes and longitudes. The issue was not being able to rapidly develop a common operating picture, some agencies had fancy tools and software that did a decent job. These tools were almost always centralized to one provider and would often not function as intended due to the high amounts of application usage. 
+We would then receive a generated report and would almost always include latitudes and longitudes. The issue was not being able to rapidly develop a common operating picture, some agencies had fancy tools and software that did a decent job. These tools were almost always centralized to one provider and would often not function as intended due to the high amounts of application usage.
 
 If there's one thing I know for a fact, it's that most law enforcement folks want nitty gritty factual data points to accurately depict their target and their investigation. 'Loadrr' was developed in this manner: simple, no smoke and mirrors, and minimal technical expertise required. I promise you won't have to endure a 2 day 8hr class on how to use this tool.
 
@@ -22,12 +22,12 @@ Okay. We have our cell phone pings in a csv file, we are ready to launch the pro
 
 ![loaddr 1st prompt](loadrr-.png)
 
-Friendly reminders are just that, friendly. Remember the data points statement? Well here is where we can develop our common operation picture by inputting an extra known data point outside of our cell phone pings. Sort of heat mapping, sort of pattern of lifing, sort of just trying to make something out of nothing... government work, I know. 
+Friendly reminders are just that, friendly. Remember the data points statement? Well here is where we can develop our common operation picture by inputting an extra known data point outside of our cell phone pings. Sort of heat mapping, sort of pattern of life-ing, sort of just trying to make something out of nothing... government work, I know.
 
-So when we give our target address the program is developed in a way that converts that address to a lat/long and plots in on our newly created kml file. This KML file is automatically saved in our directory with the csv and .py file. From this point we have a 2d common operating picture to brief. But that's no fun! 
+So when we give our target address the program is developed in a way that converts that address to a lat/long and plots in on our newly created kml file. This KML file is automatically saved in our directory with the csv and .py file. From this point we have a 2d common operating picture to brief. But that's no fun!
 
-Load up google earth (preferrably in an igcongnito firefox browser) and open a new project > import KML file from computer > VOILA! 
+Load up google earth (preferably in an incongnito firefox browser) and open a new project > import KML file from computer > VOILA!
 
 ![Mock-kml-replaceME](mock-kml.png)
 
-This is the end of my presentation, thank you for reading. 
+This is the end of my presentation, thank you for reading.
