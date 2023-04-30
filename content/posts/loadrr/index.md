@@ -26,12 +26,12 @@ Remember the data points statement? Well here is where we can develop our common
 
 When we give our subject's address, the program is developed in a way that it converts the address to a lat/long coordinate and plots in on our newly created KML file. This KML file is automatically saved in our directory with the .csv and .py file. From this point we have a 2D common operating picture to brief. But that's no fun!
 
-Load up google earth (preferably in an incongnito firefox browser) and open a new project > import KML file from computer > snip the page > VOILA! 
+Load up google earth (preferably in an incongnito firefox browser) and open a new project > import KML file from computer > snip the page > VOILA!
 
 ![Mock-kml-replaceME](mock-kml.png)
 
-You now have a hasty method of presenting pattern of life analysis, association matrices, and a decent-brief-able subject timeline. I hope this is somewhat useful to basic investigative work. This project is ongoing and 
+You now have a hasty method of presenting pattern of life analysis, association matrices, and a decent-brief-able subject timeline. I hope this is somewhat useful to basic investigative work. This project is ongoing and I would love to hear your opinions here:
 
-I would love to hear your opinons here: mysteriouslytrue@cybersaloon.io, 
+mysteriouslytrue@cybersaloon.io, this is the actual github repository:
 
-actual github repository: https://github.com/digital-values/loadrr. Thanks for reading! 
+https://github.com/digital-values/loadrr. Thanks for reading!
