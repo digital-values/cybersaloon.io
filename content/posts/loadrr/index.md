@@ -31,7 +31,7 @@ Load up google earth (preferably in an incongnito firefox browser) and open a ne
 ![Mock-kml-replaceME](mock-kml.png)
 
 You now have a hasty method of presenting pattern of life analysis, association matrices, and a decent-brief-able subject timeline. I hope this is somewhat useful to basic investigative work. This project is ongoing and I would love to hear your opinions here:
+mysteriouslytrue@cybersaloon.io
 
-mysteriouslytrue@cybersaloon.io, this is the actual github repository:
-
+This is the actual github repository:
 https://github.com/digital-values/loadrr. Thanks for reading!
