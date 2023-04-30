@@ -30,4 +30,8 @@ Load up google earth (preferably in an incongnito firefox browser) and open a ne
 
 ![Mock-kml-replaceME](mock-kml.png)
 
-You now have a hasty method of presenting pattern of life analysis, association matrices, and a decent-brief-able subject timeline. I hope this is somewhat useful to basic investigative work. This project is ongoing and I would love to hear your opinons here: mysteriouslytrue@cybersaloon.io, actual github repository:  https://github.com/digital-values/loadrr. Thanks for reading! 
+You now have a hasty method of presenting pattern of life analysis, association matrices, and a decent-brief-able subject timeline. I hope this is somewhat useful to basic investigative work. This project is ongoing and 
+
+I would love to hear your opinons here: mysteriouslytrue@cybersaloon.io, 
+
+actual github repository: https://github.com/digital-values/loadrr. Thanks for reading! 
