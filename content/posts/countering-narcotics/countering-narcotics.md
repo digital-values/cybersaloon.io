@@ -4,9 +4,9 @@ date: 2023-04-05T12:54:28-04:00
 draft: true
 ---
 
-During my tenure with the Drug Enforcement Administration, I was heavily vested in any criminal activity related to China. Having read and understood their 50-year plan for world dominance, I felt that I could make a difference at the tactical level that would, at the very least, have an impact on the surrounding neighborhoods.
+During my tenure conducting counter-narcotics operations, I was heavily vested in any criminal activity related to China. Having read and understood their 50-year plan for world dominance, I felt that I could make a difference at the tactical level that would, at the very least, have an impact on the surrounding neighborhoods within my area of responsibility.
 
-Well, I bit off more than I could chew. My immediate supervisor tailored this strategic interest of mine for other projects surrounding drug kingpins influencing narcotic operations within our area of responsibility. Like a good soldier, I didn't deviate from the path. As a matter of fact, these strategic projects laid the groundwork to enable me to understand the connection between China and Mexico. I thoroughly enjoyed working strategic projects from time to time, especially being that I was operating at the tactical level, that work really tied everything in.
+Well, I bit off way more than I could chew... My immediate supervisor tailored this strategic interest of mine for other projects surrounding drug kingpins influencing major drug trafficking operations. Like a good soldier, I didn't deviate from that path. As a matter of fact, these strategic projects laid the groundwork, enabling me to understand the connection between China and Mexico. I thoroughly enjoyed working strategic projects from time to time, especially being that I was operating at the tactical level, that work really tied everything in.
 
 What you should know about China, is they are willing to do whatever it takes to degrade, delay, or disrupt the American economy. In this write-up you'll see first hand how China is able to do that through supplying precursor chemicals to Mexican cartels. 
 
